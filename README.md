@@ -32,6 +32,13 @@ All the Microsoft animated fluent emojis are available in one place and ready to
 
 ### Enjoy! <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
 
+<img
+  src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Pig%20Face.png"
+  alt="Cat with Tears of Joy"
+  width="25"
+  height="25"
+/>
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="23" height="23" /> Loved my work?
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [Give a star to this project](https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis)<br/>
