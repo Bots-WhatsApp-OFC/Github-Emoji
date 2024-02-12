@@ -22,7 +22,7 @@
 
 # `OPTION/OPCION: 2️⃣`
 > [!NOTE]
-> Para esta opcion, es crear urls/links que lleven a mi respositorio de emojis por si no te gusta pegar o subir imagenes a tu repositorio, esta opcion lo pueden usar, en poner mi rpositorio de (Github-Emoji](https://github.com/Bots-WhatsApp-OFC/Github-Emoji), poner la direccion de la carpeta `emoji`, y poner la carpeta que el emoji esta, por ejemplo: `animals`, y al ultimo, poner el nombre de dicho emoji, por ejemplo: `Comet.png`.
+> Para esta opcion, es crear urls/links que lleven a mi respositorio de emojis por si no te gusta pegar o subir imagenes a tu repositorio, esta opcion lo pueden usar, en poner mi rpositorio de [Github-Emoji](https://github.com/Bots-WhatsApp-OFC/Github-Emoji), poner la direccion de la carpeta `emoji`, y poner la carpeta que el emoji esta, por ejemplo: `animals`, y al ultimo, poner el nombre de dicho emoji, por ejemplo: `Comet.png`.
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
