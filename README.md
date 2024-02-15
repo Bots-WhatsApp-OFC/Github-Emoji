@@ -17,6 +17,14 @@
 > [!NOTE]
 > Para este codigo, tienes que crear una carpeta en tu [README.md](lol), sea el de un proyecto o de perfil/presentacion, aqui te muestro varias imagenes paso a paso de como poner las imagenes/emojis en dicha carpeta ubicada a tu repositorio o [README.md](lol), teniendo en claro que tambien puedes contactarte [conmigo](https://wa.me/5493873687620) por si no sabes seguir las imagenes, o tambien te puedes contactar con [GuardianBot-Creator](https://wa.me/5491130362550) si no estoy disponible, gracias por leer.
 
+# 1 `Crear una carpeta diferente en el proyecto` <img src="Emojis/Animals/T-Rex.png" width="30">
+<image src='assets/images/Picsart_24-02-14_12-51-50-008.jpg' alt='Microsoft Teams Animted emojis' />
+
+> [!NOTE]
+> Tines que crear una `carpeta en tu proyecto`, una que solo sea para emojis, para agregarlos despues, recuerde que puede descargar los `emojis` en mi `repositorio` para agregarlos en tu `carpeta`.
+
+> [!IMPORTANT]
+> Recuerde saberse los nombres de los emojis, puede editar los nombres de los `Emojis` con un editor, ya que eso sirve tambien, pero es importante saberse bien el nombre de la `carpeta` y el `emoji`
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
