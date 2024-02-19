@@ -23,19 +23,54 @@
 #### 2 `Cree otra carpeta dentro de la carpeta creada, en mi caso eh puesto "Imagenes", usted puede colocar otro nombre.` <img src="Emojis/Animals/Shark.png" width="30">
 <image src='assets/images/Picsart_24-02-14_12-52-34-926.jpg' alt='Microsoft Teams Animted emojis' />
 
-#### 3 `Los emojis que has descargado en mi [repositorio](https://github.com/Bots-WhatsApp-OFC/Github-Emoji) los tienes que mover a la carpeta, por ejemplo en mi caso los movi a la carpeta de "Imagenes".` <img src="Emojis/Animals/Cat.png" width="30">
+#### 3 `Los emojis que has descargado en mi repositorio los tienes que mover/subir a la carpeta, por ejemplo en mi caso los movi/subi a la carpeta de "Imagenes".` <img src="Emojis/Animals/Cat.png" width="30">
 <image src='assets/images/Picsart_24-02-14_12-53-00-347.jpg' alt='Microsoft Teams Animted emojis' />
 
-#### 4 `Para usarlos, tienes que usar este codigo, ubicando la carpeta y el nombre del emoji, por ejemplo:`
+
+> [!TIP]
+> Aqui te dejo algunos tips de uso.
+
+#### `Para usarlos, tienes que usar este codigo, ubicando la carpeta y el nombre del emoji, por ejemplo:`
 
 ```js
-<img src="accesos/imagenes/Braim.png" width="30">
+<img src="accesos/imagenes/Cat.png" width="30">
 ```
 <details> 
 <summary> DEMOSTRACIÓN </summary>
-<img src="Emojis/" width="15">
+<img src="Emojis/Animals/Cat.png" width="30">
 </details>
 
+#### `Para agregar texto, puedes usarlo de esta manera`
+
+```js
+<img src="Emojis/Animals/Cat.png" width="30"> Este es un mensaje de ejemplo.
+```
+<details> 
+<summary> DEMOSTRACIÓN </summary>
+<img src="Emojis/Animals/Cat.png" width="30"> Este es un mensaje de Ejemplo.
+</details>
+
+#### `Cambiar tamaño del emoji`
+```js
+//CAMBIE EL NUMERO DE (width="30")
+//EL NUMERO ALTO, EL EMOJI SERA GRANDE.
+//EL NUMERO BAJO, EL EMOJI SERA PEQUEÑO.
+
+//POR EJEMPLO:
+
+<img src="Emojis/Animals/Cat.png" width="15"> Este es un texto de ejemplo.
+```
+<details> 
+<summary> DEMOSTRACIÓN </summary>
+<img src="Emojis/Animals/Cat.png" width="15"> Este es un texto de Ejemplo.
+
+
+<img src="Emojis/Animals/Cat.png" width="20"> Este es un texto de Ejemplo.
+
+<img src="Emojis/Animals/Cat.png" width="30"> Este es un texto de Ejemplo.
+</details>
+
+## `NOTA Y IMPORTANTE`
 > [!NOTE]
 > Tines que crear una `carpeta en tu proyecto`, una que solo sea para emojis, para agregarlos despues, recuerde que puede descargar los `emojis` en mi `repositorio` para agregarlos en tu `carpeta`.
 
@@ -51,7 +86,7 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 🌻💖 Vista previa 🌹🍰:
+## 🌻💖 GIFS ANIMADOS 🌹🍰:
 
 <p align="center"><image src='assets/images/showcase 1.gif' alt='Microsoft Teams Animted emojis' />
 <image src='assets/images/showcase 2.gif' alt='Microsoft Teams Animted emojis' />
