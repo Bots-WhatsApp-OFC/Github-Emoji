@@ -40,6 +40,7 @@
 <img src="Emojis/Animals/Cat.png" width="30">
 </details>
 
+
 #### `Para agregar texto, puedes usarlo de esta manera`
 
 ```js
@@ -49,6 +50,7 @@
 <summary> DEMOSTRACIÓN </summary>
 <img src="Emojis/Animals/Cat.png" width="30"> Este es un mensaje de Ejemplo.
 </details>
+
 
 #### `Cambiar tamaño del emoji`
 ```js
@@ -70,6 +72,16 @@
 <img src="Emojis/Animals/Cat.png" width="30"> Este es un texto de Ejemplo.
 </details>
 
+
+### `Agregar texto en medio de dos emojis`
+```js
+<img src="Emojis/Animals/Shark.png" width="15"> Hola, ¿Como estas? <img src="Emojis/Animals/Shark.png" width="15">
+```
+<details> 
+<summary> DEMOSTRACIÓN </summary>
+<img src="Emojis/Animals/Shark.png" width="15"> Hola, ¿Como estas? <img src="Emojis/Animals/Shark.png" width="15">
+</details>
+
 ## `NOTA Y IMPORTANTE`
 > [!NOTE]
 > Tines que crear una `carpeta en tu proyecto`, una que solo sea para emojis, para agregarlos despues, recuerde que puede descargar los `emojis` en mi `repositorio` para agregarlos en tu `carpeta`.
@@ -81,7 +93,70 @@
 
 # `OPTION/OPCION: 2️⃣`
 > [!NOTE]
-> Para esta opcion, es crear urls/links que lleven a mi respositorio de emojis por si no te gusta pegar o subir imagenes a tu repositorio, esta opcion lo pueden usar, en poner mi rpositorio de [Github-Emoji](https://github.com/Bots-WhatsApp-OFC/Github-Emoji), poner la direccion de la carpeta `emoji`, y poner la carpeta que el emoji esta, por ejemplo: `animals`, y al ultimo, poner el nombre de dicho emoji, por ejemplo: `Comet.png`.
+> Para esta opcion, es crear urls/links que lleven a mi respositorio de emojis por si no te gusta pegar o subir imagenes a tu repositorio, esta opcion lo pueden usar, en poner mi rpositorio de [Github-Emoji](https://github.com/Bots-WhatsApp-OFC/Github-Emoji), poner la direccion de la carpeta `emoji`, y poner la carpeta que el emoji esta, por ejemplo: `animals`, y al ultimo, poner el nombre de dicho emoji, por ejemplo: `Cat.png`
+
+### 1 `Use mi url/enlace de dirección para conectar con mi repositorio`
+```js
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="23" height="23" />
+```
+<details> 
+<summary> DEMOSTRACIÓN </summary>
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="23" height="23" />
+</details>
+
+
+### 2 `Cambiar tamaño del emoji`
+```js
+//CAMBIE EL NUMERO DE (width="23") y (height="23")
+
+//POR EJEMPLO:
+
+//TAMAÑO 15
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="15" height="15" />
+//TAMAÑO 20
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="20" height="20" />
+//TAMAÑO 30
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="30" height="30" />
+```
+<details> 
+<summary> DEMOSTRACIÓN </summary>
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="23" height="15" />
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="20" height="20" />
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="30" height="30" />
+</details>
+
+
+### 3 `Poner texto despues del emoji`
+```js
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="23" height="23" /> Hola, ¿Como estas?
+```
+<details> 
+<summary> DEMOSTRACIÓN </summary>
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="23" height="23" /> Hola, ¿Como estas?
+</details>
+
+
+### 4 `Poner texto en medio de dos emojis`
+```js
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="23" height="23" /> Hola, ¿Como estas? <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="23" height="23" />
+```
+<details> 
+<summary> DEMOSTRACIÓN </summary>
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="23" height="23" /> Hola, ¿Como estas? <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="23" height="23" />
+</details>
+
+
+## `NOTA Y IMPORTANTE`
+
+> [!NOTE]
+> Si no sabes hacer esto, puedes contactarte [conmigo](https://wa.me/5493873687620), te explicare a detalle de como se usa el enlace de direccion, recuerda que hay que cambiar el nombre del emoji o la carpeta que el emoji este ubicado, es necesario que el `%20` valla ya que hay carpetas que tienen un separo.
+
+> [!IMPORTANT]
+> Si no entendiste los comandos para agregar, no olvides contactarnos.
+
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/SupportBots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873687620)
+
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/GuardianOficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19145948340)
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
