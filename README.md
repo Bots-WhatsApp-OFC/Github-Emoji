@@ -174,15 +174,16 @@
   <h1 align="center">🎨 𝑬𝑫𝑰𝑻𝑶𝑹 𝒀 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹 🎨</h1>
 
 <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="300" height="300" alt="SupportBots"/></a>
+
 `SupportBots WhatsApp / Alan Oficial`
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+# 👑 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐈𝐃𝐎𝐑𝐄𝐒 👑:
+<img src="https://contrib.rocks/image?repo=Bots-WhatsApp-OFC/Github-Emoji" />
 
-# 👑 𝑪𝑹𝑬𝑫𝑰𝑻𝑶𝑺 👑:
-<a href="https://github.com/Tarikul-Islam-Anik"><img src="https://github.com/Tarikul-Islam-Anik.png" width="300" height="300" alt="SupportBots"/></a>
-`Tirakul-Islam-Anik`
+`Creditos para todos ellos 😄`
 
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
