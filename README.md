@@ -1,4 +1,3 @@
-# Puedes darme una estrella gracias ❤️
 > Puedes seguir los pasos aqui, si no sabes como, puedes contactarte conmigo.
 
 <image src='assets/images/banner.gif' alt='Microsoft Teams Animted emojis' />
@@ -177,10 +176,12 @@
 
 `SupportBots WhatsApp / Alan Oficial`
 
+> [!NOTE]
+> Este repositorio estas editado por mi para comprender su funcionamiento, poniendo imagenes, urls de lo mas explicado posible. no me hago el dueño de este proyecto editado, solo doy consejos de uso y explicativo. Gracias por leer. 🙂🍀
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# 👑 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐈𝐃𝐎𝐑𝐄𝐒 👑:
+# 👑 𝐂𝐑𝐄𝐃𝐈𝐓𝐎𝐒 𝐀 𝐋𝐎𝐒 𝐂𝐑𝐄𝐀𝐃𝐎𝐑𝐄𝐒 👑:
 <img src="https://contrib.rocks/image?repo=Bots-WhatsApp-OFC/Github-Emoji" />
 
 `Creditos para todos ellos 😄`
